@@ -1,0 +1,29 @@
+.creat-box{
+    display: flex;
+}
+body{
+    background-color: #DDD;
+}
+.box{
+    width: 490px;
+    box-shadow: 1px 3px 4px 0 pink;
+    background-color: #fff;
+    margin: 0 10px;
+}
+
+.box-text{
+    padding: 10px;
+    text-align: center;
+}
+
+.box-text h1{
+    font-size: 40px;
+    color: rgb(61, 197, 28);
+}
+.box-text p{
+    font-size: 18px;
+    color:#090909;
+}
+.color{
+    color: blue;
+}
